@@ -5,6 +5,7 @@
 | [![Release Artifacts][Badge-SonatypeReleases]][Link-SonatypeReleases] |[![Badge-Scaladex-page]][Link-Scaladex-page] |[![Badge-Twitter]][Link-Twitter] |
 
 
+Moved to https://github.com/zio/zio-constraintless
 
 Allows you to build programs as mere descriptions with maximum polymorphism, maximum modularity, zero abstraction leakage, and zero casting.
 
